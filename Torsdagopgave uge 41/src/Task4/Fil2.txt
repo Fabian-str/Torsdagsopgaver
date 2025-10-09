@@ -1,0 +1,4 @@
+Her er en txt fil som bliver læst.
+Her er en ny linje.
+
+Her er en linje med en tom linje ovenfor.
